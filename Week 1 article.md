@@ -8,75 +8,58 @@
 
 **Introduction**
 
-The world of data science is evolving at an unprecedented pace, and it's crucial for beginners to have a clear roadmap to navigate this exciting field. In this article, I'll provide a comprehensive guide for beginners in data science, with a practical focus on measuring the success of the Instagram TV (IGTV) product. Whether you're a complete novice or someone looking to expand their data science knowledge, this roadmap will serve as a valuable resource for your journey.
+In this article, I am providing a step by step guide for any person aspiring to get into data science, with a practical focus on measuring the success of the Instagram TV (IGTV) product.
 
 ---
 
 **1. Understanding Data Science**
 
-Before diving into the specific project of measuring IGTV's success, let's grasp the fundamentals of data science. Data science is the art of extracting meaningful insights from data to drive decision-making and solve complex problems. It encompasses various disciplines, including statistics, machine learning, data analysis, and domain expertise.
+Before delving into our project of measuring IGTV's success, let's grasp the fundamentals. Data science is the art of extracting meaningful insights from data to drive decision-making and solve complex problems. It encompasses various disciplines, including statistics, machine learning, data analysis, and domain expertise.
 
 ---
 
-**2. The Role of a Data Scientist**
+**2. My Role as a Data Scientist**
 
-In our hypothetical scenario, we're a Product Data Scientist at Instagram. This role involves using data to enhance product development and improve user experiences. A Product Data Scientist works closely with cross-functional teams, translating data into actionable insights.
+In our hypothetical scenario, I am a Product Data Scientist at Instagram. This role involves using data to enhance product development and improve user experiences. A Product Data Scientist works closely with cross-functional teams, translating data into actionable insights.
 
 ---
 
 **3. Instagram TV (IGTV) - An Overview**
 
-To measure the success of the IGTV product, we must first understand what it is. IGTV is Instagram's long-form video platform, designed to compete with other video-sharing platforms like YouTube. It allows users to upload and view videos up to one hour in length.
+To measure the success of the product, we must first understand it. IGTV is Instagram's long-form video platform, designed to compete with other video-sharing platforms like YouTube etc. It allows users to upload and view videos up to one hour in length.
 
 ---
 
 **4. Defining Success Metrics**
 
-The next crucial step is defining success metrics. Success in the context of IGTV can be measured through various key performance indicators (KPIs). Some potential metrics to consider include:
+As a Data scientist at Instagram I need to define the Success metrics. Success with regard to our Instagram tv product can be measured through various key performance indicators. Some of these metrics include:
 
    a. **User Engagement**: Track metrics like likes, comments, shares, and views to assess how engaged users are with IGTV content.
    
-   b. **Retention Rate**: Monitor how often users return to IGTV to consume content over time.
+   b. **Retention Rate**: Monitor how often users return to the platform to consume content over time.
    
-   c. **Ad Revenue**: If IGTV includes ads, ad revenue is a vital metric to measure.
+   c. **Ad Revenue**: Some products will definitely include ads and this is definitely will about ad revenue.Ad revenue is a vital metric to measure.
    
-   d. **Content Popularity**: Identify the most popular types of content, influencers, or creators on IGTV.
+   d. **Content Popularity**: With it's growth, the product has been used by various and many content creators, influencers, marketers as well. We will therefore identify the most popular types of content, influencers, or creators on the platform.
 
 ---
 
 **5. Data Collection and Preparation**
 
-Now that we've identified our metrics, the next step is data collection. Instagram likely has a wealth of data, including user interactions, video views, and more. As a data scientist, you'll need to access, clean, and prepare this data for analysis.
+For my as a Data scientist and anyone who needs to analyze the data   we will need to first collect data. Instagram is a huge platform and hence wealth of data, including user interactions, video views, messaging, images and more. As a data scientist, I will need to access, clean, and prepare this data for my analysis before giving the outcomes.
 
 ---
 
 **6. Data Analysis and Visualization**
 
-Using tools like Python and libraries such as Pandas and Matplotlib, analyze the data to gain insights. Create visualizations to make complex data more understandable, aiding in decision-making.
-
----
-
-**7. Machine Learning (Optional)**
-
-Consider using machine learning models to predict user behavior or content performance. Machine learning can provide valuable recommendations for product improvement.
-
----
-
-**8. A/B Testing**
-
-A/B testing involves running controlled experiments to assess the impact of changes to the IGTV product. It helps determine causation and identify what improvements work best.
-
----
-
-**9. Reporting and Communication**
-
-As a Product Data Scientist, effectively communicate your findings to stakeholders, using data-driven insights to inform decision-making.
-
----
-
-**10. Continuous Improvement**
-
-The data science journey is a continuous process. Regularly review and adapt your success metrics to keep pace with IGTV's evolving landscape.
+After collection data what follows is analysis and visualizing. We will use available tools like Python and libraries such as Pandas and Matplotlib to analyze the data to gain actionable insights. We will then create visualizations to make complex data more understandable, aiding in decision-making and also help use report well and present.
 
 ---
 
+
+**7. Testing and Reporting**
+
+A/B testing can be used and it involves running controlled experiments to assess the impact of changes to the IGTV product. This will help determine causation and identify what improvements work best. As a product data scientist, effective communication is key. Communicate your findings to stakeholders, using data-driven insightsto inform decision-making.
+
+---
+
