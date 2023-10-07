@@ -38,7 +38,7 @@ As a Data scientist at Instagram I need to define the Success metrics. Success w
    
    b. **Retention Rate**: Monitor how often users return to the platform to consume content over time.
    
-   c. **Ad Revenue**: Some products will definitely include ads and this is definitely will about ad revenue.Ad revenue is a vital metric to measure.
+   c. **Ad Revenue**: Some products will definitely include ads and this is definitely will bring about ad revenue.Ad revenue is a vital metric to measure.
    
    d. **Content Popularity**: With it's growth, the product has been used by various and many content creators, influencers, marketers as well. We will therefore identify the most popular types of content, influencers, or creators on the platform.
 
@@ -59,7 +59,7 @@ After collection data what follows is analysis and visualizing. We will use avai
 
 **7. Testing and Reporting**
 
-A/B testing can be used and it involves running controlled experiments to assess the impact of changes to the IGTV product. This will help determine causation and identify what improvements work best. As a product data scientist, effective communication is key. Communicate your findings to stakeholders, using data-driven insightsto inform decision-making.
+A/B testing can be used and it involves running controlled experiments to assess the impact of changes to the IGTV product. This will help determine causation and identify what improvements work best. As a product data scientist, effective communication is key. Communicate your findings to stakeholders, using data-driven insights to inform decision-making.
 
 ---
 
